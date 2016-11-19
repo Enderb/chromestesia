@@ -42,7 +42,7 @@ sudo chmod a+rw /dev/spidev0.0
 """)
     sys.exit(2)
 
-num = 36 * 10;
+num = 32 * 5;
 led = LEDStrip(num)
 #led.setChannelOrder(ChannelOrder.BRG) #Only use this if your strip does not use the GRB order
 #led.setMasterBrightness(0.5) #use this to set the overall max brightness of the strip
