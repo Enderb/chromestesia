@@ -4,5 +4,5 @@ Chromestesia, or Sound-to-Color Synesthesia, is a condition where a person is ab
 
 This project uses an electronic keyboard, a Raspberry Pi, and LED strips to simulate this experience.
 
-![alt text]("Piano and lights.png")
+![Keyboard with LED strips on wall](images/piano_and_lights.jpg)
 
