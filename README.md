@@ -1,3 +1,4 @@
-THIS LIBRARY IS DEPRECATED!!!
-Please check out the new library, [BiblioPixel](https://github.com/ManiacalLabs/BiblioPixel).
-Many, many more features and support for far more than the LPD8806!
+# Simulated Chromestesia
+
+Chromestesia, or Sound-to-Color Synesthesia, is a condition where a person is able to see colors that match the noises they hear. For example, if a guitar string is plucked, a person with Chromestesia will also sense a specific color matching the note that was played.
+
